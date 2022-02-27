@@ -11,5 +11,6 @@ class PostControllerTest {
     @Test
     void test() {
         System.out.println("test");
+        System.out.println("다시한번해본다");
     }
 }
